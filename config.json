@@ -1,0 +1,75 @@
+{
+  "revision": "modular-servo-leg-r2-complete",
+  "units": "mm",
+  "joint_reference": {
+    "name": "ROBOTIS X430 / FR12-H103GM topology reference",
+    "body_x": 28.5,
+    "body_y": 34.0,
+    "body_z": 46.5,
+    "axis_to_body_top": 11.0,
+    "output_horn_outer_diameter": 24.0,
+    "idler_horn_outer_diameter": 24.0,
+    "horn_bolt_circle": 16.0,
+    "horn_bolt_count": 5,
+    "horn_fastener_diameter": 2.0,
+    "frame_inside_width": 36.0,
+    "frame_plate_thickness": 3.0,
+    "extension_module_width_x": 26.0,
+    "extension_module_length_z": 90.0,
+    "extension_interface_z_1": -56.0,
+    "extension_interface_z_2": -70.0,
+    "extension_window_x": 12.0,
+    "extension_window_z": 24.0,
+    "link_fastener_diameter": 4.0,
+    "bridge_center_z": -81.0,
+    "bridge_thickness_z": 8.0,
+    "bridge_screw_pitch_x": 14.0,
+    "link_fastener_pitch": 14.0,
+    "stator_fastener_diameter": 2.5,
+    "stator_fastener_length": 6.0
+  },
+  "kinematics": {
+    "thigh_axis_distance": 158.17082837912096,
+    "shank_axis_distance": 163.59256438450763,
+    "stand_deg": {"hip": -28.0, "knee": 52.0, "ankle": -24.0}
+  },
+  "airframe_interface": {
+    "adapter_size_x": 90.0,
+    "adapter_size_y": 58.0,
+    "adapter_thickness": 5.0,
+    "uav_mount_pattern_x": 70.0,
+    "uav_mount_pattern_y": 44.0,
+    "uav_fastener_clearance_diameter": 5.3,
+    "uav_fastener": "4x M5x20-10.9 with washers and metal locknuts"
+  },
+  "links": {
+    "plate_thickness": 4.0,
+    "plate_width": 34.0,
+    "pair_center_y": 23.0,
+    "thigh_end_clearance_hole_diameter": 8.2,
+    "rectangular_window_x": 18.0,
+    "rectangular_window_z": 92.0,
+    "single_midspan_spacer_od": 8.0,
+    "single_midspan_spacer_id": 4.3,
+    "ankle_axis_diameter": 10.0,
+    "ankle_axis_length": 64.0,
+    "ankle_bearing_model": "F6800ZZ flanged bearing",
+    "ankle_bearing_od": 19.0,
+    "ankle_bearing_flange_od": 22.0,
+    "ankle_bearing_width": 5.0,
+    "ankle_bearing_seat_diameter": 19.02,
+    "ankle_collar_od": 18.0,
+    "ankle_collar_width": 5.0
+  },
+  "materials": {
+    "custom_plate": "6061-T6 aluminum, laser/waterjet + drill/ream",
+    "shaft": "40Cr steel, ground",
+    "spacer": "6061-T6 aluminum turned spacer",
+    "fastener": "12.9 grade alloy steel"
+  },
+  "design_limits": {
+    "required_peak_joint_torque_Nm": 12.0,
+    "x430_reference_stall_torque_Nm": 4.1,
+    "selection_note": "X430 is only a packaging and connection reference; choose a modular actuator whose continuous/peak torque meets the leg load case."
+  }
+}

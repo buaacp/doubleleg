@@ -1,0 +1,149 @@
+part,qty_in_CAD,material,manufacturing,solid_volume_mm3
+airframe_flat_adapter,1,6061-T6,"flat plate, drilled",25368.3
+airframe_interface_M5x20_+35.0_+22.0,1,10.9 steel,M5x20 + washers + metal locknut,392.7
+airframe_interface_M5x20_+35.0_-22.0,1,10.9 steel,M5x20 + washers + metal locknut,392.7
+airframe_interface_M5x20_-35.0_+22.0,1,10.9 steel,M5x20 + washers + metal locknut,392.7
+airframe_interface_M5x20_-35.0_-22.0,1,10.9 steel,M5x20 + washers + metal locknut,392.7
+ankle_D10_split_collar_+1,1,steel,purchased split collar + M3 set screw,879.6
+ankle_D10_split_collar_-1,1,steel,purchased split collar + M3 set screw,879.6
+ankle_D10_through_axle,1,40Cr,ground shaft + collars,5026.5
+ankle_F6800ZZ_bearing_+1,1,bearing steel,purchased,1326.5
+ankle_F6800ZZ_bearing_-1,1,bearing steel,purchased,1326.5
+hip_bridge_M3x8_+1_+7.0,1,steel,M3x8 purchased,56.5
+hip_bridge_M3x8_+1_-7.0,1,steel,M3x8 purchased,56.5
+hip_bridge_M3x8_-1_+7.0,1,steel,M3x8 purchased,56.5
+hip_bridge_M3x8_-1_-7.0,1,steel,M3x8 purchased,56.5
+hip_drive_extension_module,1,7075-T6,waterjet rough profile + CNC drill/ream + deburr,5888.1
+hip_extension_end_bridge,1,6061-T6,milled spacer block; tapped M3 ends,7488.0
+hip_extension_to_link_M4_+1_56,1,steel,purchased,138.2
+hip_extension_to_link_M4_+1_70,1,steel,purchased,138.2
+hip_extension_to_link_M4_-1_56,1,steel,purchased,138.2
+hip_extension_to_link_M4_-1_70,1,steel,purchased,138.2
+hip_fixed_mount_cradle,1,6061-T6,CNC U-cradle or bent/welded three-face carrier,21838.8
+hip_idler_M2_1,1,steel,purchased,25.1
+hip_idler_M2_2,1,steel,purchased,25.1
+hip_idler_M2_3,1,steel,purchased,25.1
+hip_idler_M2_4,1,steel,purchased,25.1
+hip_idler_M2_5,1,steel,purchased,25.1
+hip_idler_extension_module,1,7075-T6,waterjet rough profile + CNC drill/ream + deburr,5888.1
+hip_idler_horn_bearing,1,vendor idler set,purchased,1731.0
+hip_output_M2_1,1,steel,purchased,25.1
+hip_output_M2_2,1,steel,purchased,25.1
+hip_output_M2_3,1,steel,purchased,25.1
+hip_output_M2_4,1,steel,purchased,25.1
+hip_output_M2_5,1,steel,purchased,25.1
+hip_output_horn,1,vendor horn,purchased,1731.0
+hip_servo_body_reference,1,vendor actuator,purchased,45058.5
+hip_stator_M2p5_+1_+10_24,1,steel,M2.5x6 purchased,29.5
+hip_stator_M2p5_+1_+10_4,1,steel,M2.5x6 purchased,29.5
+hip_stator_M2p5_+1_-10_24,1,steel,M2.5x6 purchased,29.5
+hip_stator_M2p5_+1_-10_4,1,steel,M2.5x6 purchased,29.5
+hip_stator_M2p5_-1_+10_24,1,steel,M2.5x6 purchased,29.5
+hip_stator_M2p5_-1_+10_4,1,steel,M2.5x6 purchased,29.5
+hip_stator_M2p5_-1_-10_24,1,steel,M2.5x6 purchased,29.5
+hip_stator_M2p5_-1_-10_4,1,steel,M2.5x6 purchased,29.5
+hip_to_airframe_M4x20_+14_+17,1,12.9 steel,M4x20 + washers + metal locknut,251.3
+hip_to_airframe_M4x20_+14_-17,1,12.9 steel,M4x20 + washers + metal locknut,251.3
+hip_to_airframe_M4x20_-14_+17,1,12.9 steel,M4x20 + washers + metal locknut,251.3
+hip_to_airframe_M4x20_-14_-17,1,12.9 steel,M4x20 + washers + metal locknut,251.3
+knee_bridge_M3x8_+1_+7.0,1,steel,M3x8 purchased,56.5
+knee_bridge_M3x8_+1_-7.0,1,steel,M3x8 purchased,56.5
+knee_bridge_M3x8_-1_+7.0,1,steel,M3x8 purchased,56.5
+knee_bridge_M3x8_-1_-7.0,1,steel,M3x8 purchased,56.5
+knee_drive_extension_module,1,7075-T6,waterjet rough profile + CNC drill/ream + deburr,5888.1
+knee_extension_end_bridge,1,6061-T6,milled spacer block; tapped M3 ends,7488.0
+knee_extension_to_link_M4_+1_56,1,steel,purchased,138.2
+knee_extension_to_link_M4_+1_70,1,steel,purchased,138.2
+knee_extension_to_link_M4_-1_56,1,steel,purchased,138.2
+knee_extension_to_link_M4_-1_70,1,steel,purchased,138.2
+knee_fixed_mount_cradle,1,6061-T6,CNC U-cradle or bent/welded three-face carrier,21838.8
+knee_idler_M2_1,1,steel,purchased,25.1
+knee_idler_M2_2,1,steel,purchased,25.1
+knee_idler_M2_3,1,steel,purchased,25.1
+knee_idler_M2_4,1,steel,purchased,25.1
+knee_idler_M2_5,1,steel,purchased,25.1
+knee_idler_extension_module,1,7075-T6,waterjet rough profile + CNC drill/ream + deburr,5888.1
+knee_idler_horn_bearing,1,vendor idler set,purchased,1731.0
+knee_output_M2_1,1,steel,purchased,25.1
+knee_output_M2_2,1,steel,purchased,25.1
+knee_output_M2_3,1,steel,purchased,25.1
+knee_output_M2_4,1,steel,purchased,25.1
+knee_output_M2_5,1,steel,purchased,25.1
+knee_output_horn,1,vendor horn,purchased,1731.0
+knee_servo_body_reference,1,vendor actuator,purchased,45058.5
+knee_stator_M2p5_+1_+10_24,1,steel,M2.5x6 purchased,29.5
+knee_stator_M2p5_+1_+10_4,1,steel,M2.5x6 purchased,29.5
+knee_stator_M2p5_+1_-10_24,1,steel,M2.5x6 purchased,29.5
+knee_stator_M2p5_+1_-10_4,1,steel,M2.5x6 purchased,29.5
+knee_stator_M2p5_-1_+10_24,1,steel,M2.5x6 purchased,29.5
+knee_stator_M2p5_-1_+10_4,1,steel,M2.5x6 purchased,29.5
+knee_stator_M2p5_-1_-10_24,1,steel,M2.5x6 purchased,29.5
+knee_stator_M2p5_-1_-10_4,1,steel,M2.5x6 purchased,29.5
+shank_distal_web_M4_through_bolt,1,steel,purchased,703.7
+shank_distal_web_spacer,1,6061-T6,turned hollow spacer,1501.2
+shank_left_plate,1,7075-T6,waterjet rough profile + CNC drill/ream; flat part,12855.2
+shank_right_plate,1,7075-T6,waterjet rough profile + CNC drill/ream; flat part,12855.2
+thigh_distal_web_M4_through_bolt,1,steel,purchased,703.7
+thigh_distal_web_spacer,1,6061-T6,turned hollow spacer,1501.2
+thigh_left_plate,1,7075-T6,waterjet rough profile + CNC drill/ream; flat part,13317.3
+thigh_right_plate,1,7075-T6,waterjet rough profile + CNC drill/ream; flat part,13317.3
+thigh_to_knee_carrier_M4x55_+12,1,12.9 steel,M4x55 + washers + nyloc,703.7
+thigh_to_knee_carrier_M4x55_-12,1,12.9 steel,M4x55 + washers + nyloc,703.7
+v5_ankle_load_axle_D10,1,V5 carry-over,reuse existing V5 detail,5654.9
+v5_ankle_moving_stop_pin_D6,1,V5 carry-over,reuse existing V5 detail,452.4
+v5_ankle_palm_bush_-1,1,V5 carry-over,reuse existing V5 detail,204.1
+v5_ankle_palm_bush_1,1,V5 carry-over,reuse existing V5 detail,204.1
+v5_ankle_palm_spring_clamp,1,V5 carry-over,reuse existing V5 detail,1100.9
+v5_ankle_palm_spring_screw,1,V5 carry-over,reuse existing V5 detail,130.5
+v5_ankle_palm_spring_standoff,1,V5 carry-over,reuse existing V5 detail,10.1
+v5_ankle_retaining_collar_0,1,V5 carry-over,reuse existing V5 detail,285.0
+v5_ankle_retaining_collar_1,1,V5 carry-over,reuse existing V5 detail,285.0
+v5_ankle_return_torsion_spring,1,V5 carry-over,reuse existing V5 detail,835.2
+v5_ankle_stop_plate_pm18deg,1,V5 carry-over,reuse existing V5 detail,6188.7
+v5_ankle_stop_screw_-8,1,V5 carry-over,reuse existing V5 detail,63.6
+v5_ankle_stop_screw_8,1,V5 carry-over,reuse existing V5 detail,63.6
+v5_ankle_stop_spacer_-8,1,V5 carry-over,reuse existing V5 detail,20.2
+v5_ankle_stop_spacer_8,1,V5 carry-over,reuse existing V5 detail,20.2
+v5_ankle_tibia_spring_clamp,1,V5 carry-over,reuse existing V5 detail,1097.6
+v5_ankle_tibia_spring_screw,1,V5 carry-over,reuse existing V5 detail,253.5
+v5_ankle_tibia_spring_standoff,1,V5 carry-over,reuse existing V5 detail,362.2
+v5_common_four_groove_drum,1,V5 carry-over,reuse existing V5 detail,3353.9
+v5_front_center_cable_sheath,1,V5 carry-over,reuse existing V5 detail,176.0
+v5_front_center_contact_pad,1,V5 carry-over,reuse existing V5 detail,1776.0
+v5_front_center_flexion_tendon,1,V5 carry-over,reuse existing V5 detail,28.4
+v5_front_center_hinge_pin,1,V5 carry-over,reuse existing V5 detail,243.2
+v5_front_center_opening_spring,1,V5 carry-over,reuse existing V5 detail,2.7
+v5_front_center_removable_pin_clip,1,V5 carry-over,reuse existing V5 detail,9.7
+v5_front_center_rigid_toe,1,V5 carry-over,reuse existing V5 detail,3803.0
+v5_front_center_tendon_series_spring,1,V5 carry-over,reuse existing V5 detail,2.3
+v5_front_left_cable_sheath,1,V5 carry-over,reuse existing V5 detail,418.6
+v5_front_left_contact_pad,1,V5 carry-over,reuse existing V5 detail,1776.0
+v5_front_left_flexion_tendon,1,V5 carry-over,reuse existing V5 detail,50.8
+v5_front_left_hinge_pin,1,V5 carry-over,reuse existing V5 detail,243.2
+v5_front_left_opening_spring,1,V5 carry-over,reuse existing V5 detail,8.5
+v5_front_left_removable_pin_clip,1,V5 carry-over,reuse existing V5 detail,9.7
+v5_front_left_rigid_toe,1,V5 carry-over,reuse existing V5 detail,3807.7
+v5_front_left_tendon_series_spring,1,V5 carry-over,reuse existing V5 detail,2.3
+v5_front_right_cable_sheath,1,V5 carry-over,reuse existing V5 detail,136.3
+v5_front_right_contact_pad,1,V5 carry-over,reuse existing V5 detail,1776.0
+v5_front_right_flexion_tendon,1,V5 carry-over,reuse existing V5 detail,25.7
+v5_front_right_hinge_pin,1,V5 carry-over,reuse existing V5 detail,243.2
+v5_front_right_opening_spring,1,V5 carry-over,reuse existing V5 detail,8.5
+v5_front_right_removable_pin_clip,1,V5 carry-over,reuse existing V5 detail,9.7
+v5_front_right_rigid_toe,1,V5 carry-over,reuse existing V5 detail,3807.7
+v5_front_right_tendon_series_spring,1,V5 carry-over,reuse existing V5 detail,2.3
+v5_grip_output_adapter_envelope,1,V5 carry-over,reuse existing V5 detail,353.4
+v5_grip_servo_envelope,1,V5 carry-over,reuse existing V5 detail,32256.0
+v5_grip_servo_retaining_strap,1,V5 carry-over,reuse existing V5 detail,1680.0
+v5_grip_strap_screw_left,1,V5 carry-over,reuse existing V5 detail,86.0
+v5_grip_strap_screw_right,1,V5 carry-over,reuse existing V5 detail,86.0
+v5_palm_frame_and_ankle_clevis,1,V5 carry-over,reuse existing V5 detail,36442.8
+v5_palm_ground_pad,1,V5 carry-over,reuse existing V5 detail,11673.3
+v5_rear_hallux_cable_sheath,1,V5 carry-over,reuse existing V5 detail,546.8
+v5_rear_hallux_contact_pad,1,V5 carry-over,reuse existing V5 detail,1776.0
+v5_rear_hallux_flexion_tendon,1,V5 carry-over,reuse existing V5 detail,61.4
+v5_rear_hallux_hinge_pin,1,V5 carry-over,reuse existing V5 detail,243.2
+v5_rear_hallux_opening_spring,1,V5 carry-over,reuse existing V5 detail,8.5
+v5_rear_hallux_removable_pin_clip,1,V5 carry-over,reuse existing V5 detail,9.7
+v5_rear_hallux_rigid_toe,1,V5 carry-over,reuse existing V5 detail,3807.7
+v5_rear_hallux_tendon_series_spring,1,V5 carry-over,reuse existing V5 detail,2.3

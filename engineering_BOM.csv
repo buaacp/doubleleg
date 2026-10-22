@@ -1,0 +1,30 @@
+item,description,quantity,material_or_model,manufacturing_or_spec
+P01,UAV adapter plate,1,6061-T6,90x58x5; 70x44 M5 pattern
+P02,hip stator U-cradle,1,6061-T6,CNC or bent/welded then finish machine
+P03,hip modular actuator,1,TBD vendor actuator,X430 envelope reference only
+P04,hip output horn,1,vendor horn,match final actuator
+P05,hip idler horn/bearing,1,vendor idler,match final actuator
+P06-P07,hip extension modules,2,7075-T6,26x90x3 waterjet+CNC holes
+P08,hip end bridge,1,6061-T6,26x36x8 tapped M3 ends
+P09-P10,thigh plates,2,7075-T6,34x4 flat plate; 158.1708 axis distance
+P11,thigh hollow spacer,1,6061-T6,OD8 ID4.3 L42
+P12,knee stator U-cradle,1,6061-T6,CNC or bent/welded then finish machine
+P13,knee modular actuator,1,TBD vendor actuator,X430 envelope reference only
+P14, knee output horn,1,vendor horn,match final actuator
+P15,knee idler horn/bearing,1,vendor idler,match final actuator
+P16-P17,knee extension modules,2,7075-T6,26x90x3 waterjet+CNC holes
+P18,knee end bridge,1,6061-T6,26x36x8 tapped M3 ends
+P19-P20,shank plates,2,7075-T6,34x4 flat plate; 163.5926 axis distance
+P21,shank hollow spacer,1,6061-T6,OD8 ID4.3 L42
+P22-P23,ankle bearings,2,F6800ZZ,10x19x5 flange OD22
+P24,ankle axle,1,40Cr,D10 h6 x64 ground
+P25-P26,ankle split collars,2,steel,D10 bore width5 with M3 clamp
+P27,V5 four-toe foot assembly,1,V5 carry-over,use output_v5 detailed BOM
+F01,M5x20-10.9 bolt set,4,alloy steel,washers+metal locknuts
+F02,M4x20-12.9 bolt set,4,alloy steel,washers+metal locknuts
+F03,M2.5x6 actuator screws,16,alloy steel,8 per actuator
+F04,M2x4 horn/idler screws,20,alloy steel,10 per actuator
+F05,M3x8 bridge screws,8,alloy steel,4 per joint
+F06,M4x16-12.9 link screws,8,alloy steel,4 per joint
+F07,M4x60-12.9 spacer bolts,2,alloy steel,one per link
+F08,M4x55-12.9 knee carrier bolts,2,alloy steel,washers+locknuts

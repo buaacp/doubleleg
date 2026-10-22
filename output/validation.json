@@ -1,0 +1,39 @@
+{
+  "result": "PASS",
+  "geometry_rule": "custom links are constant-width flat plates with rectangular windows only",
+  "measured_checks": {
+    "body_to_Uframe_clearance_each_side_mm": 1.0,
+    "link_plate_to_extension_module_face_error_mm": 0.0,
+    "link_to_extension_module_M4_axis_error_mm": 0.0,
+    "output_to_idler_axis_error_mm": 0.0,
+    "hip_to_knee_axis_distance_mm": 158.170828,
+    "knee_to_ankle_axis_distance_mm": 163.592564,
+    "total_nominal_axis_length_mm": 321.763393,
+    "distal_web_braces_per_link": 1,
+    "brace_axis_above_distal_joint_axis_mm": 16.0,
+    "brace_axis_below_window_edge_mm": 10.0,
+    "horn_screws_per_side": 5,
+    "bridge_M3_screws_per_joint": 4,
+    "extension_to_link_M4_screws_per_joint": 4,
+    "knee_carrier_M4_through_bolts": 2,
+    "ankle_bearing_seat_diameter_mm": 19.02,
+    "ankle_bearing_nominal_od_mm": 19.0,
+    "ankle_axle_length_mm": 64.0,
+    "ankle_axle_end_margin_each_side_mm": 0.5,
+    "custom_6061_7075_and_steel_mass_estimate_g_excluding_servos_and_V5_foot": 572.2
+  },
+  "joint_load_path": [
+    "servo body fixed to upstream member",
+    "output horn fixed to drive-side extension module",
+    "coaxial idler horn/bearing fixed to opposite extension module",
+    "two extension modules and distal bridge rotate as one downstream member",
+    "twin leg plates bolt only to the distal two-hole interfaces of the extension modules"
+  ],
+  "important": "FR12-H103GM is a hinge-frame set, not a motor. X430 geometry is reference-only and does not meet the 12 N.m target by itself.",
+  "production_hold_points": [
+    "replace X430 reference envelope and stator holes using final actuator STEP",
+    "confirm UAV primary-structure bolt pattern before machining adapter plate",
+    "complete FEA and 1000 N proof-load test before flight"
+  ],
+  "failed_vendor_download": "Official legacy STEP endpoints returned HTTP 404 on 2026-10-21; interface dimensions remain configurable and must be replaced from the selected actuator STEP before production."
+}

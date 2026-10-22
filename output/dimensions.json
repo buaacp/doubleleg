@@ -1,0 +1,28 @@
+{
+  "source": "preliminary_design_freeze_3kg_5kg.json and cad_sim_consistent_v5",
+  "hip_axis_xyz_mm": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "knee_axis_xyz_mm": [
+    74.256706,
+    0.0,
+    -139.656552
+  ],
+  "ankle_axis_xyz_mm": [
+    7.717616,
+    0.0,
+    -289.105796
+  ],
+  "hip_to_knee_mm": 158.170828,
+  "knee_to_ankle_mm": 163.592564,
+  "hip_to_ankle_nominal_chain_mm": 321.763393,
+  "thigh_plate_straight_blank_height_mm": 126.170828,
+  "shank_plate_straight_blank_height_mm": 131.592564,
+  "stand_deg": {
+    "hip": -28.0,
+    "knee": 52.0,
+    "ankle": -24.0
+  }
+}

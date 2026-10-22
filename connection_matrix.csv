@@ -1,0 +1,17 @@
+interface,from_part,to_part,fastener_or_fit,quantity,torque_Nm,retention
+C01,UAV primary plate,airframe adapter,M5x20-10.9,4,6.0,flat washers + metal locknuts
+C02,airframe adapter,hip stator cradle,M4x20-12.9,4,4.0,flat washers + metal locknuts
+C03,hip stator cradle,hip actuator,M2.5x6,8,0.6,Loctite 222
+C04,hip output and idler horns,hip extension modules,M2x4,10,0.25,Loctite 222
+C05,hip extension modules,hip end bridge,M3x8,4,1.2,Loctite 243 into tapped bridge ends
+C06,hip extension modules,thigh plates,M4x16-12.9,4,4.0,washers + thin locknuts
+C07,thigh left plate,thigh right plate,M4x60 through hollow spacer,1,4.0,washers + locknut
+C08,thigh plates,knee stator cradle,M4x55-12.9,2,4.0,washers + locknuts
+C09,knee stator cradle,knee actuator,M2.5x6,8,0.6,Loctite 222
+C10,knee output and idler horns,knee extension modules,M2x4,10,0.25,Loctite 222
+C11,knee extension modules,knee end bridge,M3x8,4,1.2,Loctite 243 into tapped bridge ends
+C12,knee extension modules,shank plates,M4x16-12.9,4,4.0,washers + thin locknuts
+C13,shank left plate,shank right plate,M4x60 through hollow spacer,1,4.0,washers + locknut
+C14,F6800ZZ bearings,shank bearing seats,19.02 H7 housing fit,2,,flange outside; Loctite 641 only if measured loose
+C15,shank bearings and V5 ankle clevis,D10 h6 x64 axle,1,,two split collars
+C16,D10 axle,split collars,M3 clamp screws,2,1.5,torque stripe
